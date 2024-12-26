@@ -74,7 +74,6 @@ I specialize in solving weird and interesting problems with innovative and effic
 ### 📊 **GitHub Stats**
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=bwentzloff&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bwentzloff&layout=compact&theme=radical)
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=bwentzloff&theme=react-dark)
 
 ---
 
