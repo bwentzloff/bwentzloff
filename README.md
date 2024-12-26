@@ -29,22 +29,38 @@ I specialize in solving weird and interesting problems with innovative and effic
   - **Frameworks**: Laravel (PHP), Django (Python)  
   - **Technologies**: HTML, CSS, JavaScript (but prefer not to work on frontend-heavy projects 😉)
 
+- 🌐 **Web Development**:  
+  I have extensive experience building dynamic, scalable web applications using:  
+  ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)  
+  ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)  
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)  
+  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)  
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+
 ---
 
 ### 🔧 **Skills and Technologies**
-- **Languages**: Python, PHP, JavaScript, Bash, R  
-- **Frameworks**: Laravel, Django, Flask  
-- **Tools**: Git, Docker, Jupyter Notebook  
-- **Scientific Tools**: NumPy, Pandas, Matplotlib, Nextflow  
-- **Specialized Areas**: HPCs, Bioinformatics Pipelines, Edge Computing Solutions  
-- **Web Hosting**: Netlify, Vercel, DigitalOcean  
+- **Languages**:  
+  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
+  ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)  
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+  ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white)
 
----
+- **Frameworks**:  
+  ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)  
+  ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)  
+  ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
 
-### 🚀 **Current Projects**
-- **[Gifford Lake Labs](https://giffordlakelabs.com)**: Building a platform for solving interesting problems and supporting meaningful work.
-- **[Strand Esolang](https://github.com/username/strand)**: An esoteric programming language inspired by DNA structures and pathways.
-- **MobileHPC**: Prototyping a portable, solar-powered high-performance computing cluster using recycled hardware.
+- **Scientific Tools**:  
+  ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)  
+  ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)  
+  ![Matplotlib](https://img.shields.io/badge/-Matplotlib-0099CC?logo=python&logoColor=white)  
+  ![Nextflow](https://img.shields.io/badge/-Nextflow-2C8EBB?logo=nextflow&logoColor=white)
+
+- **Hosting and Deployment**:  
+  ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white)  
+  ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white)  
+  ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0080FF?logo=digitalocean&logoColor=white)
 
 ---
 
