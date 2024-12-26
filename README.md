@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img align="right" width="200" src="https://github.com/user-attachments/assets/629d4420-3ced-4c6c-a8a7-d1e0ee18719e">
 # Hello 👋  
 I'm Brian Wentzloff, a freelance developer and founder of [Gifford Lake Labs](https://giffordlakelabs.com) and [AltFantasy Sports](https://altfantasysports.com).  
 I specialize in solving weird and interesting problems with innovative and efficient solutions.
