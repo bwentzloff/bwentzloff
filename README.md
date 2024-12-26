@@ -65,7 +65,7 @@ I specialize in solving weird and interesting problems with innovative and effic
 ---
 
 ### 📫 **How to Reach Me**
-- 🌐 [Gifford Lake Labs Website](https://giffordlakelabs.com)  
+- 🌐 [Personal Website](https://brianwentzloff.com)  
 - 💼 [LinkedIn](https://linkedin.com/in/yourname)  
 - 📧 [email@example.com](mailto:email@example.com)
 
