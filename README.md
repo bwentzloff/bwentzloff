@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **bwentzloff/bwentzloff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there 👋  
+# Hello 👋  
 I'm Brian Wentzloff, a freelance developer and founder of [Gifford Lake Labs](https://giffordlakelabs.com).  
 I specialize in solving weird and interesting problems with innovative and efficient solutions.
 
